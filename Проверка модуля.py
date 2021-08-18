@@ -1,0 +1,2 @@
+import Modulе
+Modulе.privet()
